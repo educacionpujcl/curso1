@@ -1,9 +1,71 @@
 ---
-title: "My Website"
+title: "**Estadística básica**"
 ---
 
-Hello, Website!
+<br/><br/>
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+### **Tema 1 Estadística Descriptiva (Análisis de datos)**
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+* Definiciones: estadística descriptiva, inferencial, pensamiento estadístico, población
+y muestra
+
+* Los datos: variables cuantitativas (discretas, continuas) y cualitativas. Escalas de
+medición.
+
+* Tablas de frecuencia, intervalos de clase, representación gráfica con histograma de
+frecuencias.
+
+* Variables cuantitativas.
+
+* Medidas de tendencia central
+
+* Medidas de Dispersión o variabilidad
+
+* La curva normal
+
+* Medidas de forma
+
+* Medidas de localización o posición.
+
+<br/><br/>
+
+### **Tema 2: Análisis de datos**
+
+* Conceptos básicos: estadística descriptiva, inferencial, pensamiento estadístico, población y muestra, variables cuantitativas (discretas, continuas) y cualitativas. Escalas de medición.
+
+* Análisis de datos: Indicadores de tendencia central, posición, dispersión y forma (curva normal)
+
+* Visualización de datos: gráficos da barras, tortas, mosaico, histograma, líneas, cajas, dispersión. 
+
+<br/><br/>
+
+### **Tema 3 Las herramientas básicas (Énfasis en el seguimiento de productos)**
+
+* Ciclo de mejoramiento y de control PHVA
+
+* Problemas y proyectos
+
+* Cómo lograr la participación: Tormenta de ideas
+
+* Cómo registrar la información: Hojas de chequeo y de Registro de datos
+
+* Gráficos de barras, columnas, de línea, de áreas y pictóricos
+
+* Cómo identificar causas de problemas: Diagramas causa – efecto, Diagrama Por qué
+– Porqué
+
+* Cómo organizar prioridades: Diagrama de Pareto
+
+* Análisis de regresión lineal simple y múltiple, correlaciones
+
+<br/><br/>
+
+### **Tema 4: Herramientas estadísticas (se incorporan con machine learning)**
+
+* Introducción a las técnicas multivariadas descriptivas: análisis de componentes principales, análisis de conglomerados y análisis de correspondencia.
+
+* Introducción al lenguaje estadístico R 
+
+* Ejemplos de caso aplicado (con base de datos)
+
+
